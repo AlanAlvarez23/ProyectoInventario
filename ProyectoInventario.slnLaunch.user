@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "Inventario.Backend\\Inventario.Backend.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Inventario.Frontend\\Inventario.Frontend.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
